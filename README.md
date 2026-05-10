@@ -22,7 +22,7 @@
 
 <td width="35%" align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="230" style="border-radius:15px;" />
+<img src="https://raw.githubusercontent.com/Priyadharshika-MI/Priyadharshika-MI/main/Dhachu%20profile%202.jpeg" width="230" style="border-radius:15px;" />
 
 </td>
 
