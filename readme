@@ -1,0 +1,454 @@
+# README.md
+
+```md
+# <h1 align="center">Hi 👋, I'm Priyadharshika M I</h1>
+
+<h3 align="center">Java Full-Stack Developer • Problem Solver • Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Java+Full-Stack+Developer;Spring+Boot+%7C+React+Developer;350%2B+LeetCode+Problems+Solved;Passionate+About+Building+Scalable+Applications;Tech+Explorer+from+Coimbatore+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FullStack-red?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/SpringBoot-Developer-green?style=for-the-badge&logo=springboot">
+  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/LeetCode-350%2B-orange?style=for-the-badge&logo=leetcode">
+</p>
+
+---
+
+## About Me
+
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+  <tr>
+
+<td align="center" style="width:30%; padding:20px; vertical-align:middle;">
+
+<img
+src="YOUR_IMAGE_LINK_HERE"
+alt="Priyadharshika"
+width="220"
+style="border-radius:50%; object-fit:cover; border:3px solid #ff69b4; box-shadow:0 0 15px rgba(255,105,180,0.5);" />
+
+</td>
+
+<td style="width:70%; padding:20px; vertical-align:middle;">
+
+<h3>Priyadharshika M I</h3>
+
+<p><em>Java Full-Stack Developer • MERN Stack Enthusiast • Problem Solver</em></p>
+
+<p>
+Passionate about crafting scalable and user-friendly applications using <b>Spring Boot</b>, <b>React.js</b>, <b>Node.js</b>, and <b>MongoDB</b>.  
+Focused on building impactful projects and continuously improving problem-solving skills through DSA and development.
+</p>
+
+<ul>
+<li><b>🎓 College:</b> Sri Krishna College of Engineering and Technology</li>
+
+<li><b>📍 Location:</b> Coimbatore, India</li>
+
+<li><b>💡 Interests:</b> Full Stack Development, AI, REST APIs, Problem Solving</li>
+
+<li><b>🔥 DSA:</b> Solved 350+ LeetCode Problems</li>
+
+<li><b>🌱 Currently Exploring:</b> Advanced Spring Boot & Scalable Backend Systems</li>
+
+<li><b>🤝 Open To:</b> Internships • Collaborations • Development Projects</li>
+
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+# Skills & Tools
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"><br>Java
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"><br>JavaScript
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"><br>Python
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"><br>React.js
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"><br>Node.js
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"><br>Express.js
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"><br>Spring Boot
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"><br>HTML5
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"><br>CSS3
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"><br>MongoDB
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"><br>MySQL
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"><br>Git
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"><br>GitHub
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"><br>Postman
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"><br>VS Code
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"><br>Bootstrap
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"><br>C
+</td>
+
+<td align="center" width="100" style="padding:15px;">
+<img src="https://img.icons8.com/color/48/api-settings.png" width="48"><br>REST APIs
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Professional Experience
+
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px;">
+
+<tr>
+
+<td style="padding:20px; border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<h3>🚀 ATS Infotech</h3>
+
+<b>Full Stack Developer Intern</b>
+
+<ul>
+<li>Developed responsive React.js user interfaces</li>
+<li>Integrated REST APIs for seamless communication</li>
+<li>Enhanced front-end performance and usability</li>
+<li>Participated in deployment and live verification</li>
+</ul>
+
+</td>
+
+<td style="padding:20px; border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<h3>💻 Bluekode Solutions</h3>
+
+<b>Python & Data Science Intern</b>
+
+<ul>
+<li>Worked on Python and Data Science concepts</li>
+<li>Built dynamic full-stack components</li>
+<li>Improved API integration workflows</li>
+<li>Managed version control using Git</li>
+</ul>
+
+</td>
+
+<td style="padding:20px; border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<h3>📊 Net Tel Solutions (NTS)</h3>
+
+<b>Python With Data Science Intern</b>
+
+<ul>
+<li>Worked on practical Python applications</li>
+<li>Explored data analysis techniques</li>
+<li>Gained real-world internship experience</li>
+<li>Strengthened analytical skills</li>
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Featured Projects
+
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px;">
+
+<tr>
+
+<td style="padding:20px; border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<h3>🌾 Farming in Uncertainty</h3>
+
+<p>
+Decision Intelligence System using Spring Boot REST APIs for agricultural decision support and risk analysis.
+</p>
+
+</td>
+
+<td style="padding:20px; border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<h3>🏙️ Digital Twin Smart City</h3>
+
+<p>
+IoT-based monitoring system with predictive models for traffic flow and energy optimization.
+</p>
+
+</td>
+
+<td style="padding:20px; border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<h3>💐 Florist Management System</h3>
+
+<p>
+Spring Boot & MySQL based secure application workflow and automated tracking system.
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Professional Certifications
+
+<table style="width:100%; border-collapse: collapse; table-layout: fixed;">
+
+<tr>
+
+<td style="width:25%; padding:15px; vertical-align:top;">
+
+<div style="text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="48"/>
+</div>
+
+<b>Introduction to Data Science</b><br>
+<sub>Infosys Springboard</sub>
+
+</td>
+
+<td style="width:25%; padding:15px; vertical-align:top;">
+
+<div style="text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="48"/>
+</div>
+
+<b>Introduction to Artificial Intelligence</b><br>
+<sub>Infosys Springboard</sub>
+
+</td>
+
+<td style="width:25%; padding:15px; vertical-align:top;">
+
+<div style="text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="48"/>
+</div>
+
+<b>Introduction to Deep Learning</b><br>
+<sub>Infosys Springboard</sub>
+
+</td>
+
+<td style="width:25%; padding:15px; vertical-align:top;">
+
+<div style="text-align:center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="48"/>
+</div>
+
+<b>Machine Learning using Python</b><br>
+<sub>Infosys Springboard</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Dashboard
+
+<table align="center" style="width:100%; border-collapse:separate; border-spacing:12px; background:rgba(255,255,255,.03); border:1px solid rgba(255,255,255,.08); border-radius:12px;">
+
+<tr>
+
+<td style="width:50%; padding:0; border-radius:8px;">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Priyadharshika-MI&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"
+width="100%">
+
+</td>
+
+<td style="width:50%; padding:0; border-radius:8px;">
+
+<img
+src="https://streak-stats.demolab.com?user=Priyadharshika-MI&theme=tokyonight&hide_border=true"
+width="100%">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" style="padding:0; border-radius:8px;">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshika-MI&theme=tokyo-night&hide_border=true"
+width="100%">
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Priyadharshika_10?theme=dark&font=Poppins&ext=contest" />
+</p>
+
+---
+
+# Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyadharshika-MI&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Priyadharshika-MI/count.svg" />
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Priyadharshika-MI/Priyadharshika-MI/output/snake.svg" alt="Snake animation" />
+
+</p>
+
+---
+
+# 🤝 Let’s Connect
+
+<div align="center">
+
+<table>
+
+<tr align="center">
+
+<td>
+
+<a href="https://github.com/Priyadharshika-MI" target="_blank">
+
+<img src="https://img.icons8.com/color/48/github--v1.png" width="45"/><br>
+
+<b>GitHub</b>
+
+</a>
+
+</td>
+
+<td>
+
+<a href="https://www.linkedin.com/in/priyadharshika-mi-83a7bb298/" target="_blank">
+
+<img src="https://img.icons8.com/color/48/linkedin.png" width="45"/><br>
+
+<b>LinkedIn</b>
+
+</a>
+
+</td>
+
+<td>
+
+<a href="mailto:priyadharshika102005@gmail.com">
+
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/><br>
+
+<b>Email</b>
+
+</a>
+
+</td>
+
+<td>
+
+<a href="https://leetcode.com/u/Priyadharshika_10/" target="_blank">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/><br>
+
+<b>LeetCode</b>
+
+</a>
+
+</td>
+
+<td>
+
+<a href="https://www.instagram.com/_dhachu_10/" target="_blank">
+
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="45"/><br>
+
+<b>Instagram</b>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+💖 Built with passion by **Priyadharshika M I** • 🚀 Always learning & building
+
+</div>
+```
